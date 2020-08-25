@@ -1,0 +1,1 @@
+C:\Induction\Apps\mongodb-win32-x86_64-2008plus-ssl-4.0.2\bin\mongod.exe --dbpath=C:\Users\User\Desktop\mongodb-dat
